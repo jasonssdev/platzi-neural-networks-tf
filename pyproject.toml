@@ -25,6 +25,7 @@ dependencies = [
     "yellowbrick",
     "joblib",
     "scipy",
+    "tensorflow",
 ]
 
 [build-system]
